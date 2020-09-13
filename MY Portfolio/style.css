@@ -1,0 +1,20 @@
+h1{
+    color:blue;
+}
+h3{
+    color: red;
+}
+.header{
+    border:solid;  
+    background-color:yellow;
+    display: flex;
+    justify-content:space-between;
+}
+.gameImg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+.item{
+    border:solid
+}
